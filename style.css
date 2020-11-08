@@ -1,7 +1,7 @@
  body {
     background-image: url(./Assets/dementors.jpeg);
     background-color: rgb(43, 44, 43);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
 }
 

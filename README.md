@@ -9,3 +9,11 @@
 * finished contact page
 
 * added some shadows and rounding
+
+![profile imgs](./Assets/readImgs/ScreenShot1.png)
+![profile imgs](./Assets/readImgs/ScreenShot2.png)
+![profile imgs](./Assets/readImgs/ScreenShot3.png)
+![profile imgs](./Assets/readImgs/ScreenShot4.png)
+![profile imgs](./Assets/readImgs/ScreenShot5.png)
+![profile imgs](./Assets/readImgs/ScreenShot6.png)
+![profile imgs](./Assets/readImgs/ScreenShot7.png)
